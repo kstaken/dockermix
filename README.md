@@ -1,6 +1,5 @@
 
-**NOTE: This project has been renamed Maestro and development has moved under the Toscanini organization: [Maestro](https://github.com/toscanini/maestro)**
-=========================================
+**NOTE: This project has been renamed [Maestro](https://github.com/toscanini/maestro) and development has moved under the Toscanini organization.** See the [Maestro project](https://github.com/toscanini/maestro) for the current source code.
 
 dockermix
 ============
